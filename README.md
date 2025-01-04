@@ -27,5 +27,3 @@ PassGen is a simple, yet effective password generator built in Python! It's desi
 
 4. Follow the on-screen instructions to generate your password 🔑
 
-## Example 📖
-
